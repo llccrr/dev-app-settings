@@ -1,3 +1,3 @@
 # iTerm2
 
-Can be imported throw the applications settings
+Can be imported from the applications settings
